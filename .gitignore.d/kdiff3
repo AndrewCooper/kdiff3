@@ -1,0 +1,4 @@
+*
+!/.gitignore.d
+!/.gitignore.d/kdiff3
+!/.kdiff3rc
